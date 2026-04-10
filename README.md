@@ -11,11 +11,11 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/>
 * Nicolas Elias Calmucci - Usuario Github: Eleven1433 / Scrum master - Desarrollador
 <br/>
-* Juan Ignacio Alonso - Usuario Github: juanignacioalonso - Desarrollador
+*Octavio Javier Arnaudo - Usuario Github: - Desarrollador
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
-* Juan Daniel Opazo - Usuario Github: juance - Desarrollador
+* Jorgelina Leonora Sapp- Usuario Github: - Desarrollador
 <br/>
 
 <br/>
